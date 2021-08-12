@@ -12,10 +12,10 @@ from six.moves import input
 import googleapiclient.discovery
 import argparse
 import os
-#os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "/home/lcaetano/jotta/bootcamp/gcp/mod2/desafio1/key-automation.json"
+#os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "/full-path/service-account-key-automation.json"
 
 # Project ID for this request.
-project = "project-bootcamp-666999"
+project = "project-name"
 zone =  "us-east1-b"
 compute = googleapiclient.discovery.build('compute', 'v1')
 space = ' '
