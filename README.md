@@ -1,6 +1,6 @@
 # README
 # Overview Solution - @ caetano-the-sdk-challenge-and-more.pdf
-# [embed]https://github.com/lucianod2/gcp-api-pyhton/blob/main/caetano-the-sdk-challenge-and-more.pdf[/embed]
+[embed]https://github.com/lucianod2/gcp-api-pyhton/blob/main/caetano-the-sdk-challenge-and-more.pdf[/embed]
 # gcp-python-instances-list
 This python script run similar the gcloud compute instances list
 
